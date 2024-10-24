@@ -6,3 +6,12 @@ here we are merging the 2 different branch commits
 
 new data for rebase commit
 
+<<<<<<< Updated upstream
+=======
+i am learning git and stash concept right now
+1nd version....
+2nd version....
+
+3rd version
+
+>>>>>>> Stashed changes
